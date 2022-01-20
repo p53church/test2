@@ -1,0 +1,2 @@
+This is my first txt file which I save on git I guess.
+It has the .fasta extension.
