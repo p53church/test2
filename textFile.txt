@@ -1,2 +1,2 @@
-This is my first txt file which I save on git I guess.
+This is a text file.
 It has the .fasta extension.
